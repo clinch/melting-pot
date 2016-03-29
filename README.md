@@ -1,5 +1,5 @@
-# social-collab
-A way for teams to collaborate on messages being sent to social media. This tool enables businesses and organizations to protect
+# Melting Pot
+Many voices become one. A way for teams to collaborate on messages being sent to social media. This tool enables businesses and organizations to protect
 social feeds, while empowering individual employees to contribute to messages that are posted.
 
 ## Concept
