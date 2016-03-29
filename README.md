@@ -13,11 +13,11 @@ be approved by a certain number of other contributors before being *released* on
 ACME Co. has a Twitter feed. They want to stay current and respond to events in real time. However, they do not want to hand out their
 Twitter password to numerous employees for fear that someone will post something inappropriate or tarnish the image of their company.
 
-Using **social-collab**, ACME Co. authorizes the app to send tweets, and creates a user account for each employee within social-collab.
-Any employee can submit a tweet to social-collab, but the tweet is held until it is proofread and approved by at least one other ACME
+Using **melting-pot**, ACME Co. authorizes the app to send tweets, and creates a user account for each employee within melting-pot.
+Any employee can submit a tweet to melting-pot, but the tweet is held until it is proofread and approved by at least one other ACME
 employee. This reduces the chance that an inappropriate tweet is posted to ACME's Twitter timeline.
 
-One day, Joe, an ACME employee has a great idea for a tweet while he's watching the Superbowl. He submits his tweet to social-collab
+One day, Joe, an ACME employee has a great idea for a tweet while he's watching the Superbowl. He submits his tweet to melting-pot
 and instantly all the other ACME collaborators are notified of Joe's tweet. Mary like's Joe's tweet so she double checks Joe's spelling
 and decides to approve the tweet. With the click of a single button, Mary provides the additional review step necessary and Joe's tweet
 is released onto Twitter.
